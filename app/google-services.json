@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207682602809",
+    "project_id": "splash-comida",
+    "storage_bucket": "splash-comida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207682602809:android:2b51115bbaefebc7394ae8",
+        "android_client_info": {
+          "package_name": "com.example.splash_comida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207682602809-utg6r69qs61lsn1ii02iatguf87ueu1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CX7YbO01hQq18F8OR3g_Py94v3mo714"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207682602809-utg6r69qs61lsn1ii02iatguf87ueu1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
